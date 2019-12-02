@@ -1,0 +1,11 @@
+016 crie um programa que leia um numero real qualquer pel teclado e mostre na tela a sua porção inteira
+
+017 faça um progrma que leia o comprimento do cateto oposto e do cateto adjacente de um triangulo retangulo, calcule e mostre o comprimento da hipotenusa
+
+018 faca um programa que leia um angulo qualquer e mostre na tela o valor do seno, casseno e tangente desse angulo
+
+019 um professor que sortear um dos quatro alunos para apagar o quadro. faca um programa que ajude ele, lendo o nome deles e escrevendo o nome do sorteado
+
+020 o professor quer sortear a ordem de apresentação de trabalhos dos alunos, faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada
+
+021 faca um programa em python que abre e reproduza o audio de um arquivo mp3
