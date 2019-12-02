@@ -1,4 +1,4 @@
-016 crie um programa que leia um numero real qualquer pel teclado e mostre na tela a sua porção inteira
+016 crie um programa que leia um numero real qualquer pelo teclado e mostre na tela a sua porção inteira
 
 017 faça um progrma que leia o comprimento do cateto oposto e do cateto adjacente de um triangulo retangulo, calcule e mostre o comprimento da hipotenusa
 
